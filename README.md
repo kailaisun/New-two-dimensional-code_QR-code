@@ -11,8 +11,8 @@ We designed a new two-dimensional code dedicated to acupoints location, with CRC
 #### Also,you can try other images by changing the code in two-code-detetor.py:</br> 
     image = cv2.imread('./images/0.jpg')</br>
 ## Show:
- ![image](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190627212736.png)</br>
- ![image](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190627212825.png)</br>
+ ![image](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212736.png)</br>
+ ![image](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212825.png)</br>
  The result represents three centre coordinates of feature points and the value of this two-dimensional code.
 
 
