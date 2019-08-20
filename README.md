@@ -13,6 +13,6 @@ We designed a new two-dimensional code dedicated to 'acupoints location', with '
 ## Show:
  ![img](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212736.png)</br>
  ![img](https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212825.png)</br>
- The result represents three centre coordinates of feature points and the value of this two-dimensional code.
+ The result represented three centre coordinates of feature points and the value of this two-dimensional code.
 
 
