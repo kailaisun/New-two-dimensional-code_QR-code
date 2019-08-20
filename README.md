@@ -1,6 +1,5 @@
 # New two-dimensional code/QR code 
 
-# The detail decription is in the paper, and the URL will be put here till the conference is held.
 
 ## Tiny visual tags for robot cameras
 We designed a new two-dimensional code dedicated to acupoints location, with CRC check function, and a new two-dimensional code detection and recognition algorithm is proposed.</br>
