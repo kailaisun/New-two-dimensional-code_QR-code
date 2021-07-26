@@ -17,7 +17,7 @@ This project introduces how to implement the proposed tiny QR code detection and
 ### Show:
  <div align=center><img  src="https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212736.png"/></div>
  <div align=center><img  src="https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/show_20190627212825.png"/></div>
-The last image represented three centre coordinates of feature points.  
+The last image represented three center coordinates of feature points.  
 
 The '[1,1,1,1,1,1,1,1,1]' are the values of nine black areas;The '31' is the value of this two-dimensional code;the 'True' is the CRC check result.
 
