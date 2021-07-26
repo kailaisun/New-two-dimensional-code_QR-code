@@ -1,7 +1,7 @@
 # New QR code 
 
  Published paper:[Visual Feedback System for Traditional Chinese Medical Massage Robot](https://ieeexplore.ieee.org/document/8866076)
-## Innovation:Tiny visual tags for robot cameras
+## Innovation:A new tiny QR code  for  robot cameras
 In the above paper, we designed a new tiny QR code dedicated to 'acupoints location', with CRC check function.  
 This project introduces how to implement the proposed tiny QR code detection and recognition algorithm:</br>
   <div align=center><img width='250' height='300'  src="https://github.com/kailaisun/New-two-dimensional-code_QR-code/blob/master/fig.png"/></div>
